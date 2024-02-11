@@ -139,7 +139,8 @@ ORDER BY TotalSales DESC
 10. The employee who spent the last day at Angie's is determined based on the end date recorded in the employees table.
 11 The busiest hour, busiest day of the week, and busiest month of the year for sales transactions are identified based on the frequency and total sales amounts recorded in transaction reports.
 
-Recommendations:
+# Recommendations:
+
 1. Implement measures to improve data consistency and accuracy, particularly in recording sales amounts and employee records.
 2. Identify and prioritize top-performing products to optimize marketing strategies and inventory management.
 3. Develop targeted loyalty programs or incentives to retain and reward top customers identified through transaction analysis.
