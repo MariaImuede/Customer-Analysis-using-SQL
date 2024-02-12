@@ -8,7 +8,8 @@
 
 ## Problem Statement
 
-An analysis of a Microsoft SQL database is conducted to extract meaningful insights related to sales transactions, customer loyalty, employee records, and product information of Angie's Berry Corner. The objective is to derive actionable insights and recommendations to improve decision-making processes and address specific business inquiries.
+An analysis of a Microsoft SQL database is conducted to extract meaningful insights related to sales transactions, customer loyalty, employee records, and product information of the fruit company. The objective is to derive actionable insights and recommendations to improve decision-making processes and address specific business inquiries.
+Data set provided by https://www.linkedin.com/company/techchak/
 
 
 
